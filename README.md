@@ -1,5 +1,5 @@
-# websocket-sharp-core
-A websocket-sharp library port to .net standart 2.0
+# websocket-sharp-net6
+A websocket-sharp library port to .net6
 
 Original library:
 https://github.com/sta/websocket-sharp
